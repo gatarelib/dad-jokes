@@ -8,6 +8,10 @@ Unfortunately these jokes only work if you git them.
 
 ---
 
+**Q:**Kotlin found flutter and java fight know Why?
+
+**A:**java called Flutter jerks of all trade
+
 **Q:** How do you get the code for the bank vault?
 
 **A:** You checkout their branch.
